@@ -10,7 +10,7 @@
 
 2. Install dependencies:
    ```bash
-   pip install requirements.txt
+   pip install -r requirements.txt
    ```
 
 3. Run the application:
